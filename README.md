@@ -393,3 +393,5 @@
 ### License
 
 [MIT](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/LICENSE)
+
+하나씩 확인
